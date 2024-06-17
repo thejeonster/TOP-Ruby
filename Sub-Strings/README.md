@@ -1,0 +1,1 @@
+This is the repository for the basic Ruby projects in the Ruby module of The Odin Project. 
